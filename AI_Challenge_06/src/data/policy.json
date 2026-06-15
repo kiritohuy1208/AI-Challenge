@@ -1,0 +1,61 @@
+{
+  "policy_id": "POL-2024-TH-001",
+  "effective_date": "2024-01-01",
+  "expiry_date": "2024-12-31",
+  "currency": "THB",
+  "benefits": {
+    "OUTPATIENT": {
+      "annual_limit": 100000,
+      "sub_benefits": {
+        "Doctor Visit": {
+          "per_visit_limit": 3000,
+          "copay": {
+            "type": "PERCENTAGE",
+            "percentage": 20
+          },
+          "waiting_period_days": 30
+        },
+        "Lab Test": {
+          "per_visit_limit": 5000,
+          "copay": {
+            "type": "PERCENTAGE",
+            "percentage": 10
+          },
+          "waiting_period_days": 30
+        },
+        "Preventive Care": {
+          "per_visit_limit": 4000,
+          "copay": {
+            "type": "FIXED",
+            "amount": 0
+          },
+          "waiting_period_days": 0
+        }
+      }
+    },
+    "INPATIENT": {
+      "annual_limit": 25000,
+      "sub_benefits": {
+        "Hospitalization": {
+          "per_visit_limit": 20000,
+          "copay": {
+            "type": "PERCENTAGE",
+            "percentage": 10
+          },
+          "waiting_period_days": 0
+        }
+      }
+    }
+  },
+  "deductible": {
+    "amount": 2000,
+    "applies_to": [
+      "OUTPATIENT",
+      "INPATIENT"
+    ]
+  },
+  "exclusions": [
+    "Cosmetic Surgery",
+    "Dental"
+  ]
+}

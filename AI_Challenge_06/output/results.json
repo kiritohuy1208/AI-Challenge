@@ -1,0 +1,222 @@
+[
+  {
+    "expense_id": "EXP-001",
+    "submitted_amount": 1200,
+    "covered_amount": 0,
+    "copay_amount": 0,
+    "member_pays": 1200,
+    "decision": "DENIED",
+    "reason": "Expense denied: within 30-day waiting period (4 days since policy effective date).",
+    "remaining_annual_limit": 100000,
+    "remaining_visit_limit": 3000
+  },
+  {
+    "expense_id": "EXP-002",
+    "submitted_amount": 1800,
+    "covered_amount": 0,
+    "copay_amount": 0,
+    "member_pays": 1800,
+    "decision": "DENIED",
+    "reason": "Expense denied: within 30-day waiting period (19 days since policy effective date).",
+    "remaining_annual_limit": 100000,
+    "remaining_visit_limit": 5000
+  },
+  {
+    "expense_id": "EXP-003",
+    "submitted_amount": 1500,
+    "covered_amount": 0,
+    "copay_amount": 0,
+    "member_pays": 1500,
+    "decision": "PARTIALLY_COVERED",
+    "reason": "Deductible applied: 1500 THB member responsibility before coverage.",
+    "remaining_annual_limit": 100000,
+    "remaining_visit_limit": 4000
+  },
+  {
+    "expense_id": "EXP-004",
+    "submitted_amount": 1700,
+    "covered_amount": 960,
+    "copay_amount": 240,
+    "member_pays": 740,
+    "decision": "PARTIALLY_COVERED",
+    "reason": "Deductible applied: 500 THB member responsibility before coverage. 20% copay applied. Covered: 960 THB. Member copay: 240 THB.",
+    "remaining_annual_limit": 99040,
+    "remaining_visit_limit": 3000
+  },
+  {
+    "expense_id": "EXP-005",
+    "submitted_amount": 2500,
+    "covered_amount": 2000,
+    "copay_amount": 500,
+    "member_pays": 500,
+    "decision": "PARTIALLY_COVERED",
+    "reason": "20% copay applied. Covered: 2000 THB. Member copay: 500 THB.",
+    "remaining_annual_limit": 97040,
+    "remaining_visit_limit": 3000
+  },
+  {
+    "expense_id": "EXP-006",
+    "submitted_amount": 3000,
+    "covered_amount": 3000,
+    "copay_amount": 0,
+    "member_pays": 0,
+    "decision": "COVERED",
+    "reason": "No copay applied.",
+    "remaining_annual_limit": 94040,
+    "remaining_visit_limit": 4000
+  },
+  {
+    "expense_id": "EXP-007",
+    "submitted_amount": 4200,
+    "covered_amount": 2400,
+    "copay_amount": 600,
+    "member_pays": 1800,
+    "decision": "PARTIALLY_COVERED",
+    "reason": "Per-visit sub-limit of 3000 THB applied; 1200 THB exceeds visit cap. 20% copay applied. Covered: 2400 THB. Member copay: 600 THB.",
+    "remaining_annual_limit": 91640,
+    "remaining_visit_limit": 3000
+  },
+  {
+    "expense_id": "EXP-008",
+    "submitted_amount": 6200,
+    "covered_amount": 4500,
+    "copay_amount": 500,
+    "member_pays": 1700,
+    "decision": "PARTIALLY_COVERED",
+    "reason": "Per-visit sub-limit of 5000 THB applied; 1200 THB exceeds visit cap. 10% copay applied. Covered: 4500 THB. Member copay: 500 THB.",
+    "remaining_annual_limit": 87140,
+    "remaining_visit_limit": 5000
+  },
+  {
+    "expense_id": "EXP-009",
+    "submitted_amount": 2800,
+    "covered_amount": 2240,
+    "copay_amount": 560,
+    "member_pays": 560,
+    "decision": "PARTIALLY_COVERED",
+    "reason": "20% copay applied. Covered: 2240 THB. Member copay: 560 THB.",
+    "remaining_annual_limit": 84900,
+    "remaining_visit_limit": 3000
+  },
+  {
+    "expense_id": "EXP-010",
+    "submitted_amount": 3800,
+    "covered_amount": 3800,
+    "copay_amount": 0,
+    "member_pays": 0,
+    "decision": "COVERED",
+    "reason": "No copay applied.",
+    "remaining_annual_limit": 81100,
+    "remaining_visit_limit": 4000
+  },
+  {
+    "expense_id": "EXP-011",
+    "submitted_amount": 3000,
+    "covered_amount": 2400,
+    "copay_amount": 600,
+    "member_pays": 600,
+    "decision": "PARTIALLY_COVERED",
+    "reason": "20% copay applied. Covered: 2400 THB. Member copay: 600 THB.",
+    "remaining_annual_limit": 78700,
+    "remaining_visit_limit": 3000
+  },
+  {
+    "expense_id": "EXP-012",
+    "submitted_amount": 5000,
+    "covered_amount": 4500,
+    "copay_amount": 500,
+    "member_pays": 500,
+    "decision": "PARTIALLY_COVERED",
+    "reason": "10% copay applied. Covered: 4500 THB. Member copay: 500 THB.",
+    "remaining_annual_limit": 74200,
+    "remaining_visit_limit": 5000
+  },
+  {
+    "expense_id": "EXP-013",
+    "submitted_amount": 1500,
+    "covered_amount": 1200,
+    "copay_amount": 300,
+    "member_pays": 300,
+    "decision": "PARTIALLY_COVERED",
+    "reason": "20% copay applied. Covered: 1200 THB. Member copay: 300 THB.",
+    "remaining_annual_limit": 73000,
+    "remaining_visit_limit": 3000
+  },
+  {
+    "expense_id": "EXP-014",
+    "submitted_amount": 2000,
+    "covered_amount": 2000,
+    "copay_amount": 0,
+    "member_pays": 0,
+    "decision": "COVERED",
+    "reason": "No copay applied.",
+    "remaining_annual_limit": 71000,
+    "remaining_visit_limit": 4000
+  },
+  {
+    "expense_id": "EXP-015",
+    "submitted_amount": 3300,
+    "covered_amount": 2400,
+    "copay_amount": 600,
+    "member_pays": 900,
+    "decision": "PARTIALLY_COVERED",
+    "reason": "Per-visit sub-limit of 3000 THB applied; 300 THB exceeds visit cap. 20% copay applied. Covered: 2400 THB. Member copay: 600 THB.",
+    "remaining_annual_limit": 68600,
+    "remaining_visit_limit": 3000
+  },
+  {
+    "expense_id": "EXP-016",
+    "submitted_amount": 12000,
+    "covered_amount": 10800,
+    "copay_amount": 1200,
+    "member_pays": 1200,
+    "decision": "PARTIALLY_COVERED",
+    "reason": "10% copay applied. Covered: 10800 THB. Member copay: 1200 THB.",
+    "remaining_annual_limit": 14200,
+    "remaining_visit_limit": 20000
+  },
+  {
+    "expense_id": "EXP-017",
+    "submitted_amount": 18000,
+    "covered_amount": 14200,
+    "copay_amount": 1800,
+    "member_pays": 3800,
+    "decision": "PARTIALLY_COVERED",
+    "reason": "10% copay applied. Covered: 16200 THB. Member copay: 1800 THB. Annual limit cap applied; insurer pays 14200 THB of 16200 THB calculated coverage (2000 THB member responsibility).",
+    "remaining_annual_limit": 0,
+    "remaining_visit_limit": 20000
+  },
+  {
+    "expense_id": "EXP-018",
+    "submitted_amount": 9000,
+    "covered_amount": 0,
+    "copay_amount": 0,
+    "member_pays": 9000,
+    "decision": "DENIED",
+    "reason": "Annual limit for this benefit type is exhausted; no insurance payment available.",
+    "remaining_annual_limit": 0,
+    "remaining_visit_limit": 20000
+  },
+  {
+    "expense_id": "EXP-019",
+    "submitted_amount": 2600,
+    "covered_amount": 2080,
+    "copay_amount": 520,
+    "member_pays": 520,
+    "decision": "PARTIALLY_COVERED",
+    "reason": "20% copay applied. Covered: 2080 THB. Member copay: 520 THB.",
+    "remaining_annual_limit": 66520,
+    "remaining_visit_limit": 3000
+  },
+  {
+    "expense_id": "EXP-020",
+    "submitted_amount": 7000,
+    "covered_amount": 0,
+    "copay_amount": 0,
+    "member_pays": 7000,
+    "decision": "DENIED",
+    "reason": "Annual limit for this benefit type is exhausted; no insurance payment available.",
+    "remaining_annual_limit": 0,
+    "remaining_visit_limit": 20000
+  }
+]

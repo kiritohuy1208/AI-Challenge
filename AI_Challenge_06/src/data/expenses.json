@@ -1,0 +1,182 @@
+[
+  {
+    "expense_id": "EXP-001",
+    "date": "2024-01-05",
+    "benefit_type": "OUTPATIENT",
+    "sub_benefit": "Doctor Visit",
+    "amount": 1200,
+    "diagnosis": "Acute bronchitis",
+    "provider": "Bangkok Hospital"
+  },
+  {
+    "expense_id": "EXP-002",
+    "date": "2024-01-20",
+    "benefit_type": "OUTPATIENT",
+    "sub_benefit": "Lab Test",
+    "amount": 1800,
+    "diagnosis": "Blood chemistry panel",
+    "provider": "Samitivej Hospital"
+  },
+  {
+    "expense_id": "EXP-003",
+    "date": "2024-02-02",
+    "benefit_type": "OUTPATIENT",
+    "sub_benefit": "Preventive Care",
+    "amount": 1500,
+    "diagnosis": "Annual wellness screening",
+    "provider": "MedPark Hospital"
+  },
+  {
+    "expense_id": "EXP-004",
+    "date": "2024-02-10",
+    "benefit_type": "OUTPATIENT",
+    "sub_benefit": "Doctor Visit",
+    "amount": 1700,
+    "diagnosis": "Sinus infection",
+    "provider": "Bangkok Hospital"
+  },
+  {
+    "expense_id": "EXP-005",
+    "date": "2024-02-18",
+    "benefit_type": "OUTPATIENT",
+    "sub_benefit": "Doctor Visit",
+    "amount": 2500,
+    "diagnosis": "Migraine",
+    "provider": "Vejthani Hospital"
+  },
+  {
+    "expense_id": "EXP-006",
+    "date": "2024-03-01",
+    "benefit_type": "OUTPATIENT",
+    "sub_benefit": "Preventive Care",
+    "amount": 3000,
+    "diagnosis": "Vaccination package",
+    "provider": "Bumrungrad International Hospital"
+  },
+  {
+    "expense_id": "EXP-007",
+    "date": "2024-03-10",
+    "benefit_type": "OUTPATIENT",
+    "sub_benefit": "Doctor Visit",
+    "amount": 4200,
+    "diagnosis": "Allergic rhinitis",
+    "provider": "Bangkok Hospital"
+  },
+  {
+    "expense_id": "EXP-008",
+    "date": "2024-03-20",
+    "benefit_type": "OUTPATIENT",
+    "sub_benefit": "Lab Test",
+    "amount": 6200,
+    "diagnosis": "Thyroid function test",
+    "provider": "Samitivej Hospital"
+  },
+  {
+    "expense_id": "EXP-009",
+    "date": "2024-04-01",
+    "benefit_type": "OUTPATIENT",
+    "sub_benefit": "Doctor Visit",
+    "amount": 2800,
+    "diagnosis": "Gastroenteritis",
+    "provider": "BNH Hospital"
+  },
+  {
+    "expense_id": "EXP-010",
+    "date": "2024-04-12",
+    "benefit_type": "OUTPATIENT",
+    "sub_benefit": "Preventive Care",
+    "amount": 3800,
+    "diagnosis": "Cardiovascular checkup",
+    "provider": "Bumrungrad International Hospital"
+  },
+  {
+    "expense_id": "EXP-011",
+    "date": "2024-04-20",
+    "benefit_type": "OUTPATIENT",
+    "sub_benefit": "Doctor Visit",
+    "amount": 3000,
+    "diagnosis": "Tonsillitis",
+    "provider": "Bangkok Hospital"
+  },
+  {
+    "expense_id": "EXP-012",
+    "date": "2024-05-01",
+    "benefit_type": "OUTPATIENT",
+    "sub_benefit": "Lab Test",
+    "amount": 5000,
+    "diagnosis": "Liver function test",
+    "provider": "MedPark Hospital"
+  },
+  {
+    "expense_id": "EXP-013",
+    "date": "2024-05-10",
+    "benefit_type": "OUTPATIENT",
+    "sub_benefit": "Doctor Visit",
+    "amount": 1500,
+    "diagnosis": "Conjunctivitis",
+    "provider": "Vejthani Hospital"
+  },
+  {
+    "expense_id": "EXP-014",
+    "date": "2024-05-18",
+    "benefit_type": "OUTPATIENT",
+    "sub_benefit": "Preventive Care",
+    "amount": 2000,
+    "diagnosis": "Dietitian consultation",
+    "provider": "Samitivej Hospital"
+  },
+  {
+    "expense_id": "EXP-015",
+    "date": "2024-05-25",
+    "benefit_type": "OUTPATIENT",
+    "sub_benefit": "Doctor Visit",
+    "amount": 3300,
+    "diagnosis": "Dermatitis",
+    "provider": "Bangkok Hospital"
+  },
+  {
+    "expense_id": "EXP-016",
+    "date": "2024-06-01",
+    "benefit_type": "INPATIENT",
+    "sub_benefit": "Hospitalization",
+    "amount": 12000,
+    "diagnosis": "Appendicitis",
+    "provider": "Bumrungrad International Hospital"
+  },
+  {
+    "expense_id": "EXP-017",
+    "date": "2024-06-08",
+    "benefit_type": "INPATIENT",
+    "sub_benefit": "Hospitalization",
+    "amount": 18000,
+    "diagnosis": "Pneumonia admission",
+    "provider": "Bangkok Hospital"
+  },
+  {
+    "expense_id": "EXP-018",
+    "date": "2024-06-15",
+    "benefit_type": "INPATIENT",
+    "sub_benefit": "Hospitalization",
+    "amount": 9000,
+    "diagnosis": "Dengue fever monitoring",
+    "provider": "Samitivej Hospital"
+  },
+  {
+    "expense_id": "EXP-019",
+    "date": "2024-06-22",
+    "benefit_type": "OUTPATIENT",
+    "sub_benefit": "Doctor Visit",
+    "amount": 2600,
+    "diagnosis": "Upper respiratory infection",
+    "provider": "BNH Hospital"
+  },
+  {
+    "expense_id": "EXP-020",
+    "date": "2024-06-28",
+    "benefit_type": "INPATIENT",
+    "sub_benefit": "Hospitalization",
+    "amount": 7000,
+    "diagnosis": "Post-surgery follow-up admission",
+    "provider": "Vejthani Hospital"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "total_submitted_amount": 92100,
+  "total_covered_amount": 58480,
+  "total_member_pays": 33620,
+  "remaining_annual_limit_by_benefit": {
+    "OUTPATIENT": 66520,
+    "INPATIENT": 0
+  },
+  "remaining_deductible_amount": 0
+}

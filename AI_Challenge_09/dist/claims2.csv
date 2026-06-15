@@ -1,0 +1,17 @@
+claim_id,policy_id,member_name,claim_type,diagnosis_icd10,submitted_amount,approved_amount,status,submitted_date,processed_date,assessor,insurer,country
+CLM-00001,POL-00001,Ananya Nguyen,OUTPATIENT,J06.9,1000,1000,APPROVED,2024-01-15,2024-01-20,Sarah Chen,Pacific Shield Insurance,Thailand
+CLM-00002,POL-00002,Minh Wong,INPATIENT,I10,2000,1800,APPROVED,2024-02-01,2024-02-04,Michael Wong,Meridian Health Assurance,Vietnam
+CLM-00003,POL-00003,Wei Tan,DENTAL,E11.9,500,0,REJECTED,2024-02-15,2024-02-22,Priya Sharma,EastAsia Mutual,Hong Kong
+CLM-00004,POL-00004,Lan Patel,OUTPATIENT,M54.5,800,0,PENDING,2024-03-01,,James Tan,Pacific Shield Insurance,Thailand
+CLM-00005,POL-00005,Mei Kim,MATERNITY,O80,1500,750,IN_REVIEW,2024-03-15,2024-03-25,Emily Nguyen,Meridian Health Assurance,Vietnam
+CLM-00006,POL-00006,David Chen,OUTPATIENT,J06.9,3000,2700,APPROVED,2024-04-01,2024-04-15,Sarah Chen,Pacific Shield Insurance,Hong Kong
+CLM-00007,POL-00007,Grace Ho,INPATIENT,K02.9,600,0,REJECTED,2024-04-10,2024-04-30,Michael Wong,EastAsia Mutual,Thailand
+CLM-00008,POL-00008,Hana Lee,DENTAL,R51,400,200,PENDING,2024-05-01,,Priya Sharma,Meridian Health Assurance,Vietnam
+CLM-00009,POL-00009,Arun Singh,OUTPATIENT,I10,1200,600,IN_REVIEW,2024-05-15,2024-05-21,James Tan,Pacific Shield Insurance,Thailand
+CLM-00010,POL-00010,Yuki Yamamoto,DENTAL,H10.9,5000,4500,APPROVED,2024-06-01,2024-06-03,Emily Nguyen,EastAsia Mutual,Hong Kong
+CLM-00011,POL-00011,Fatima Ali,INPATIENT,J06.9,10000,9000,APPROVED,2024-06-15,2024-07-15,Sarah Chen,Meridian Health Assurance,Vietnam
+CLM-00012,POL-00012,Oliver Brown,MATERNITY,N39.0,250,0,PENDING,2024-07-01,,Michael Wong,EastAsia Mutual,Thailand
+CLM-00013,POL-00013,Nisha Gupta,OUTPATIENT,E11.9,700,350,IN_REVIEW,2024-07-15,2024-07-23,Priya Sharma,Pacific Shield Insurance,Hong Kong
+CLM-00014,POL-00014,Kenji Lim,OUTPATIENT,B34.9,1500,1275,APPROVED,2024-08-01,2024-08-05,James Tan,Meridian Health Assurance,Thailand
+CLM-00015,POL-00015,Raj Tran,DENTAL,K02.9,900,0,REJECTED,2024-08-15,2024-08-30,Emily Nguyen,EastAsia Mutual,Vietnam
+CLM-00016,POL-00016,Siti Park,INPATIENT,G43.909,2200,1100,IN_REVIEW,2024-09-01,2024-09-02,Sarah Chen,Pacific Shield Insurance,Vietnam
